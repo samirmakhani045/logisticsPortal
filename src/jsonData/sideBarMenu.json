@@ -1,0 +1,32 @@
+[
+  {
+    "key": "1",
+    "icon": "PieChartOutlined",
+    "title": "Dashboard",
+    "url": "dashboard"
+  },
+  {
+    "key": "2",
+    "icon": "DesktopOutlined",
+    "title": "Shipments",
+    "url": "shipments"
+  },
+  {
+    "key": "3",
+    "icon": "PieChartOutlined",
+    "title": "Inventory",
+    "url": "inventory"
+  },
+  {
+    "key": "4",
+    "icon": "DesktopOutlined",
+    "title": "Warehousing",
+    "url": "warehousing"
+  },
+  {
+    "key": "5",
+    "icon": "PieChartOutlined",
+    "title": "Suppliers",
+    "url": "suppliers"
+  }
+]
